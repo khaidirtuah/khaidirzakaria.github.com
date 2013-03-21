@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://ialja.github.com/atom.xml" rel="self"/>
   <link href="http://ialja.github.com/"/>
-  <updated>2013-03-21T21:31:32+01:00</updated>
+  <updated>2013-03-21T21:50:03+01:00</updated>
   <id>http://ialja.github.com/</id>
   <author>
     <name><![CDATA[Alja Isakovic]]></name>
@@ -12,6 +12,32 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Let's do a little test of embedding stuff]]></title>
+    <link href="http://ialja.github.com/blog/2013/03/21/lets-do-a-little-test-of-embedding-stuff/"/>
+    <updated>2013-03-21T21:33:00+01:00</updated>
+    <id>http://ialja.github.com/blog/2013/03/21/lets-do-a-little-test-of-embedding-stuff</id>
+    <content type="html"><![CDATA[<p>So, I&#8217;m already going all fancy with adding stuff to my octopress blog. Got some suggestions from <a href="http://james.brooks.so/blog/octopress-and-this-blog/">here</a> on some simple plugins. Want to see if it works?</p>
+
+<!-- more -->
+
+
+<p>First, Twitter. Let&#8217;s see one of my super important tweets:</p>
+
+<div class='embed tweet'><blockquote class="twitter-tweet"><p>Zabaven pregled zgodovine mobilnih omrežij vse od golobov do super hitrega <a href="https://twitter.com/search/%23LTE">#LTE</a> na novinarsko konferenci @<a href="https://twitter.com/mobitel">mobitel</a> <a href="http://t.co/pV6IREfxy0" title="http://twitter.com/iAlja/status/314318457808244736/photo/1">twitter.com/iAlja/status/3…</a></p>&mdash; Alja Isakovic (@iAlja) <a href="https://twitter.com/iAlja/status/314318457808244736">March 20, 2013</a></blockquote>
+<script async src="http://ialja.github.com//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+
+<p>Videos:</p>
+
+<iframe width="" height="" src="http://www.youtube.com/embed/r5rXOSDmDJU " frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+
+
+<iframe width="" height="" src="http://player.vimeo.com/video/61164549 " frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Hello world]]></title>
