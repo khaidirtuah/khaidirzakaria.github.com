@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://blog.ialja.com/atom.xml" rel="self"/>
   <link href="http://blog.ialja.com/"/>
-  <updated>2013-03-22T07:53:23+01:00</updated>
+  <updated>2013-03-22T08:08:07+01:00</updated>
   <id>http://blog.ialja.com/</id>
   <author>
     <name><![CDATA[Alja Isakovic]]></name>
@@ -12,6 +12,20 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Every website needs some cats]]></title>
+    <link href="http://blog.ialja.com/blog/2013/03/22/every-website-needs-some-cats/"/>
+    <updated>2013-03-22T08:04:00+01:00</updated>
+    <id>http://blog.ialja.com/blog/2013/03/22/every-website-needs-some-cats</id>
+    <content type="html"><![CDATA[<p>How could this be a proper blog without a cat photo? Yep, need to fix this asap.</p>
+
+<!-- more -->
+
+
+<p><img src="http://blog.ialja.com/images/uploads/epic-blink.jpg" title="Epic and Blink" ></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Let's do a little test of embedding stuff]]></title>
