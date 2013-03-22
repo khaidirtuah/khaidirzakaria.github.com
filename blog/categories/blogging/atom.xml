@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Blogging | My Octopress Blog]]></title>
-  <link href="http://ialja.github.com/blog/categories/blogging/atom.xml" rel="self"/>
-  <link href="http://ialja.github.com/"/>
-  <updated>2013-03-21T23:02:37+01:00</updated>
-  <id>http://ialja.github.com/</id>
+  <link href="http://blog.ialja.com/blog/categories/blogging/atom.xml" rel="self"/>
+  <link href="http://blog.ialja.com/"/>
+  <updated>2013-03-22T07:53:23+01:00</updated>
+  <id>http://blog.ialja.com/</id>
   <author>
     <name><![CDATA[Alja Isakovic]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Hello world]]></title>
-    <link href="http://ialja.github.com/blog/2013/03/21/hello-world/"/>
+    <link href="http://blog.ialja.com/blog/2013/03/21/hello-world/"/>
     <updated>2013-03-21T16:53:00+01:00</updated>
-    <id>http://ialja.github.com/blog/2013/03/21/hello-world</id>
+    <id>http://blog.ialja.com/blog/2013/03/21/hello-world</id>
     <content type="html"><![CDATA[<p>I suppose I just write here?</p>
 
 <!-- more -->
