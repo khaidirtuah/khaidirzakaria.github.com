@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://blog.ialja.com/atom.xml" rel="self"/>
   <link href="http://blog.ialja.com/"/>
-  <updated>2013-03-22T18:45:11+01:00</updated>
+  <updated>2013-03-22T18:51:01+01:00</updated>
   <id>http://blog.ialja.com/</id>
   <author>
     <name><![CDATA[Alja Isaković]]></name>
@@ -82,7 +82,7 @@
     <updated>2006-10-27T00:00:00+02:00</updated>
     <id>http://blog.ialja.com/2006/10/here-we-go</id>
     <content type="html"><![CDATA[<div class='post'>
-So, finally my new blog is online and running. Serious posts are soon to come, I promise :)<br/><br/><italic>Originally published at <a href='http://ialja.blogspot.com/2006/10/here-we-go.html'>http://ialja.blogspot.com/2006/10/here-we-go.html</a></italic><br/</div>
+So, finally my new blog is online and running. Serious posts are soon to come, I promise :)<br/><hr/><br/><italic>Originally published at <a href='http://ialja.blogspot.com/2006/10/here-we-go.html'>http://ialja.blogspot.com/2006/10/here-we-go.html</a></italic><br/><br/></div>
 ]]></content>
   </entry>
   
