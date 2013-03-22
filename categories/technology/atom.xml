@@ -2,9 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Technology | My Octopress Blog]]></title>
-  <link href="http://blog.ialja.com/blog/categories/technology/atom.xml" rel="self"/>
+  <link href="http://blog.ialja.com/categories/technology/atom.xml" rel="self"/>
   <link href="http://blog.ialja.com/"/>
-  <updated>2013-03-22T08:17:51+01:00</updated>
+  <updated>2013-03-22T14:41:51+01:00</updated>
   <id>http://blog.ialja.com/</id>
   <author>
     <name><![CDATA[Alja Isaković]]></name>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Let's do a little test of embedding stuff]]></title>
-    <link href="http://blog.ialja.com/blog/2013/03/21/lets-do-a-little-test-of-embedding-stuff/"/>
+    <link href="http://blog.ialja.com/2013/03/21/lets-do-a-little-test-of-embedding-stuff/"/>
     <updated>2013-03-21T21:33:00+01:00</updated>
-    <id>http://blog.ialja.com/blog/2013/03/21/lets-do-a-little-test-of-embedding-stuff</id>
+    <id>http://blog.ialja.com/2013/03/21/lets-do-a-little-test-of-embedding-stuff</id>
     <content type="html"><![CDATA[<p>So, I'm already going all fancy with adding stuff to my octopress blog. Got some suggestions from <a href="http://james.brooks.so/blog/octopress-and-this-blog/">here</a> on some simple plugins. Want to see if it works?</p>
 
 <!-- more -->
