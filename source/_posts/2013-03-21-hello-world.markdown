@@ -3,7 +3,7 @@ layout: post
 title: "Hello world"
 date: 2013-03-21 16:53
 comments: true
-categories: [Test, Rails, octopress, Blogging]
+categories: [Other]
 ---
 I suppose I just write here?
 
