@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Goodbye Blogger, Hello Octopres!"
+title: "Goodbye Blogger, Hello Octopress!"
 date: 2013-03-22 22:47
 comments: true
 categories:
