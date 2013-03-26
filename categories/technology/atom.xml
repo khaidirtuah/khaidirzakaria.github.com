@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Technology | iAlja's blog]]></title>
   <link href="http://blog.ialja.com/categories/technology/atom.xml" rel="self"/>
   <link href="http://blog.ialja.com/"/>
-  <updated>2013-03-26T12:25:44+01:00</updated>
+  <updated>2013-03-26T18:20:51+01:00</updated>
   <id>http://blog.ialja.com/</id>
   <author>
     <name><![CDATA[Alja Isaković]]></name>
@@ -14,13 +14,105 @@
 
   
   <entry>
+    <title type="html"><![CDATA[I'm in love with Markdown]]></title>
+    <link href="http://blog.ialja.com/2013/03/26/im-in-love-with-markdown/"/>
+    <updated>2013-03-26T11:25:00+01:00</updated>
+    <id>http://blog.ialja.com/2013/03/26/im-in-love-with-markdown</id>
+    <content type="html"><![CDATA[<p>I just want to go on the record for saying that I really, really love Markdown:</p>
+
+<blockquote><p>"… a text-to-HTML conversion tool for web writers. Markdown allows you to write using an easy-to-read, easy-to-write plain text format, then convert it to structurally valid XHTML (or HTML)." - <a href="http://daringfireball.net/projects/markdown/">John Gruber</a></p></blockquote>
+
+<p>In other words, it's a simple way of writing for the web that lets you focus on the content. Because it's plain text, it's also incredibly easy to carry across multiple devices and platform (even mobile ones) and it's much more future proof than  some proprietary software format.</p>
+
+<p>In fact, it's so simple, you'll probably say: "Wait, there's all there is to it?" when you see an example of Markdown like the one below. Yep, it's that simple. And that's precisely why it's so brilliant!</p>
+
+<pre><code># This is the main title
+
+## And this is a level 2 heading
+
+Look, some text! **Bold** text and a [link](http://ialja.com)
+
+## Let's try another section
+
+How about a list of item?
+
+- Cats
+- Dogs
+- Frogs
+
+And a horizontal line for the big finish.
+
+* * *
+</code></pre>
+
+<!-- more -->
+
+
+<p>The example from below will look like this on the web:</p>
+
+<h1>This is the main title</h1>
+
+<h2>And this is a level 2 heading</h2>
+
+<p>Look, some text! <strong>Bold</strong> text and a <a href="http://ialja.com">link</a></p>
+
+<h2>Let's try another section</h2>
+
+<p>How about a list of item?</p>
+
+<ul>
+<li>Cats</li>
+<li>Dogs</li>
+<li>Frogs</li>
+</ul>
+
+
+<p>And a horizontal line for the big finish.</p>
+
+<hr />
+
+<h2>iA Writer got me hooked on Markdown</h2>
+
+<p>In fact, it's so deceivingly simple, you might not even notice that you need Markdown at all. When I first saw screenshots of <a href="http://www.iawriter.com/mac/">iA Writer</a>, I thought it looked awkward and unnecessary. Why would I want to look at a boring screen with the same big font all day, no option to add colors and other fancy stuff? Because it helps me write faster and better, that's why. But you can't really see it until you give it a proper try and actually get some work done.</p>
+
+<p>Yesterday I came across a <a href="http://daringfireball.net/linked/2013/03/23/markdown-book">recommendation</a> for an <a href="http://macsparky.com/markdown/">e-book on Markdown</a> on <a href="http://daringfireball.net">Daring Fireball</a>, John Gruber's blog. Because Gruber just happens to be the <a href="http://daringfireball.net/projects/markdown/syntax">father of Markdown</a> and because I'm spending more and more time in iA Writer, my Markdown editor of choice, I couldn't resist tapping on that buy button in my iBooks store.</p>
+
+<p><img class="The MacSparky Markdown Field Guide on iPad" src="/images/uploads/markdown-ebook.jpg"></p>
+
+<h2>The ultimate Markdown guide and Marked, my new best friend</h2>
+
+<p><a href="http://macsparky.com/markdown/">The MacSparky Markdown Field Guide</a> is indeed a wonderful ebook that will guide you through the important aspects with easy to follow screencasts. It should work well for both beginners and those of us who want to take our basic Markdowning (not sure that's a word) skills to the next level. I certainly did learn a couple of new tricks, and iA Writer got a new best friend: <a href="http://markedapp.com">Marked</a>.</p>
+
+<p>Marked is not an editor, but a preview app for all sorts of advanced Markdown such as reference-style links   that iA Writer doesn't support on its own. With one <a href="http://support.iawriter.com/help/kb/general-questions/how-can-i-preview-markdown">simple script</a> you can send the document you're working on in iA Writer to Marked and look at the fancy preview side by side when you're proofreading.</p>
+
+<p><img class="iA Writer and Marked side by side" src="/images/uploads/iawriter-marked-post.png"></p>
+
+<p>Not to mention that Marked also supports link verification, provides a handy table of contents for quickly jumping to different sections, supports custom CSS files that modify the look of the preview window, and tons of different export formats that will use your custom CSS. Totally in love.</p>
+
+<p>What can I say about Markdown that hasn't been said before? Yes, it has made me a better writer. I am more focused on the writing, I spend less time fiddling with unnecessary design settings that are relevant for print, but not for the web. I create blog posts faster. Which is why I was so excited when I found out <a href="/2013/03/22/goodbye-blogger-hello-octopress/">a way</a> to base my personal blog entirely on Markdown files.</p>
+
+<h2>Why you should also learn Markdown</h2>
+
+<p>So, if you're doing any sort of writing for the web and haven't yet explored Markdown, you should fix this immediately. And even if you're doing more traditional writing, Markdown could be a great way to keep you from getting distracted. You could start with these links:</p>
+
+<ul>
+<li><a href="http://designshack.net/articles/html/mastering-markdown-30-resources-apps-and-tutorials-to-get-you-started/">Mastering Markdown: 30 Resources, Apps and Tutorials to Get You Started</a></li>
+<li><a href="http://daringfireball.net/projects/markdown/syntax">Daring Fireball: Markdown Syntax Documentation</a></li>
+</ul>
+
+
+<p>But if you really want an easy and step by step guide, <a href="http://macsparky.com/markdown/">The MacSparky Markdown Field Guide</a> is definitely the way to go.</p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Goodbye Blogger, Hello Octopress!]]></title>
     <link href="http://blog.ialja.com/2013/03/22/goodbye-blogger-hello-octopress/"/>
     <updated>2013-03-22T22:47:00+01:00</updated>
     <id>http://blog.ialja.com/2013/03/22/goodbye-blogger-hello-octopress</id>
     <content type="html"><![CDATA[<p>The recent <a href="http://ialja.com/post/45336943328/hitler-finds-out-google-reader-is-shutting-down">Google Reader fiasco</a> reminded me of something I've been too lazy to take care of for too long: my blog, which I started back in 2006, was still being hosted on Google's Blogger. Now here's a question for you: how long before Google decides all blogging should be done on Google+? Ridiculous question? I don't know. I don't feel like taking chances with Google anymore. But what are the alternatives?</p>
 
-<p>{% img /images/uploads/blogger-to-octopress.png %}</p>
+<p><img src="/images/uploads/blogger-to-octopress.png"></p>
 
 <!-- more -->
 
@@ -96,17 +188,6 @@
     <id>http://blog.ialja.com/2012/12/i-quit-evernote-why-company-shouldnt</id>
     <content type="html"><![CDATA[<div class='post'>
 <a href="http://blog.ialja.com/2010/08/7-things-i-love-about-evernote.html" title="/2010/08/7-things-i-love-about-evernote.html">I used to love Evernote</a>. "Remember everything" is their headline. People talk about "outsourcing your memory" with Evernote. And I did. I made Evernote the hub for most of my work that didn't require documents. I stored everything, from meeting notes and blog post drafts to notes about our cats' health and even kept a shared notebook for our favorite recipes. <br /><p>One of the things I loved most about Evernote was its ability to keep all my notes synced across multiple devices. Sounds great, doesn't it? Yeah, except things don't "just work" anymore. </p><div class="separator" style="clear: both; text-align: center;"><a href="http://1.bp.blogspot.com/-OCL2l1Vozc8/UNYA6qqypOI/AAAAAAAAAqQ/E3YhmHfJiBE/s1600/goodbye-evernote.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="215" src="http://1.bp.blogspot.com/-OCL2l1Vozc8/UNYA6qqypOI/AAAAAAAAAqQ/E3YhmHfJiBE/s320/goodbye-evernote.png" width="320" /></a></div><br /><!-- more --><br /><h2>How Evernote started ruining meetings for me </h2><br />It's not a new problem. I first started having problems this Summer. I like to prepare for meetings in advance, so I spent some time jotting down notes in Evernote in the evening. I was a bit of a hurry to get to the meeting the next morning, so I didn't bother to press the Sync button on Evernote on my iMac. I've always had automatic syncing on, so I didn't really think twice about it.<br /><br />Except I should have. On the bus I took out my iPhone to revise the agenda for the meeting. Tough luck. The note isn't there, and neither are all the other notes I knew I created the day before, even a couple of days before! Of course, I have no way to remotely push the Evernote Sync button on my iMac, so I improvise and try to recreate the notes from memory. Luckily I hadn't yet completely outsourced my memory to Evernote despite being a Premium user, so I was able to remember most of it.<br /><br /><h2>Do elephants run Evernote support?</h2><br />The first thing I did when I got back home was to check my Evernote settings. Everything was as it should had been, automatic sync every 5 minutes. I try to manually sync, and the notes then appear on my iPhone. Ok, time to contact Evernote support. <br /><br />As a Premium user I did get a response within the business day, but I can't say it was very useful. I sent them the activity log and they recommended reinstalling Evernote. No other explanation. Was this a recurring problem? Just a faulty installation? How can I check that the next time? I suggested they implement a sync checker into the app that would actually tell the user automatic syncing has failed. I don't know about you, but I don't really have a habit of checking apps logs when I except the app to just work. In fact, I didn't even know Evernote had an Activity Log before I ran into problems.<br /><br /><h2>Evernote works fine if you're using just one device</h2><br />Back to my story. Time goes by. I replace my iMac with a MacBook Pro and spend most of the time on the same machine. Meaning, I'm mostly using Evernote on one device. I still like the idea of being able to access notes from anywhere if I need to. However, the few times I do use the Evernote mobile apps, they display weird sync behavior. I don't pay much attention to the issue as I now always have my laptop with me during meetings. So I decide to stick with Evernote for the time being and renew my subscription on December 1.<br /><br />As an Evernote user, I'm glad to see them release a big update to all their apps this Fall. The mobile one certainly has some nice tricks up its sleeve, like the sync button that's now easily accessible on the first screen (yep, that wasn't the case before). The Mac app is bloated and takes some time getting used to, but at least I can still access my notes and write them as before. Changes happen, so I don't make a big deal out of this.<br /><br />Until yesterday, when I decide to only take my iPad to work. And guess what? I want to look up something in Evernote and notice that all notes from over a week ago are missing. I press the sync button over and over again, on my iPad, on my iPhone. Nope. The notes just aren't in the cloud. And that is where my patience ends.<br /><br /><br /><h2>Are regular reinstalls the only way to make Evernote sync?</h2><br />I contact support again, specifically asking them not to serve me with an automated reply like last time. I want to talk to a human that can actually explain what's going one. But no, no such luck. Either they have machines answering the tickets or their support staff has very strict guidelines on what they can and cannot write. Meanwhile I've had very good experience with Nike Store support, you can see they are actual humans working there. You know, with emotions and the ability to write unique sentences.<br /><br />Anyhow, the official Evernote answer is that I appear to be running an old version of the app (after sending the ticket the latest update showed up in the Mac App Store) and that I should reinstall Evernote. Same reply I got last time, same instruction on how to reinstall the app (as if that was so difficult on a Mac...), yet they still haven't figured out Evernote now lives in the Mac App Store.<br /><br /><h2>Goodbye Evernote, hello alternatives!</h2><br />Dear Evernote, I just don't want to talk to support bots anymore. I don't need a bloated app that looks pretty. I want to write notes and have them in sync on all my devices. Which is why <b>I </b><strong>cancelled my Evernote Premium subscription yesterday and started looking for alternatives</strong>.<br /><br />I looked at <a href="http://springpad.com/" title="http://springpad.com/">Springpad</a> - but they have no Mac client. I looked at <a href="http://simplenoteapp.com/" title="http://simplenoteapp.com">Simplenote</a> - but apparently they've been having sync issues for a while now as well. And the more I looked, the more I started seeing <a href="https://www.dropbox.com/" title="https://www.dropbox.com/">Dropbox</a> mentioned as an alternative! Dropbox? Yeah, you can easily have a folder for Notes, keep them in .txt or .rtf format and edit them practically anywhere. In TextEdit, for instance, which is one of the Apple apps I use most often on my Mac. <br /><br /><div class="separator" style="clear: both; text-align: center;"><a href="http://2.bp.blogspot.com/-jU0z3W5fi8U/UNYE6kSA12I/AAAAAAAAAqw/NGlEn91YDXo/s1600/springpad-simplenote-dropbox-mobile-apps.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="120" src="http://2.bp.blogspot.com/-jU0z3W5fi8U/UNYE6kSA12I/AAAAAAAAAqw/NGlEn91YDXo/s400/springpad-simplenote-dropbox-mobile-apps.png" width="400" /></a></div><br />And as I started considering this alternative, I started discovering more and more note taking apps that can sync with Dropbox, even <a href="http://www.apple.com/icloud/" title="http://www.apple.com/icloud/">iCloud</a>. Sure, they don't have all the fancy stuff Evernote has, but I rarely use tags after I assign them, and I've only needed audio notes once in the last year. Most of my notes are text notes. I already use <a href="http://blog.ialja.com/2012/01/im-in-love-with-pinterest-and-why-that.html">Pinterest for visual bookmarking</a>, and Springpad seems like a really nice complementary service for that. It has a great mobile app and it's very easy to have a private collection of more visually based notes and share them with my husband. For free!<br /><br />So, I realize that instead of a full blown alternative to Evernote what I really need is a bloat-free app that enables me to write, has just a few of the basic formatting options (bold, italic, the ability to make links).<br /><br /><h2>I'm in love with the simplicity of iA Writer</h2><br />And this is where I discover <a href="http://www.iawriter.com/" title="http://www.iawriter.com">iA Writer</a>. Well, discover is not really the right word here. I was aware of the app before, but I thought it was just for fancy writing stuff, a more simple version of Pages. But it turns out it now has both iCloud and Dropbox sync, a gorgeously simple native Mac app and an equally simple iOS client that works for both iPhone and iPad. The runner up was <a href="http://bywordapp.com/" title="http://bywordapp.com">Byword</a>, another simple text editor both for Macs and iOS devices. Both of these apps focus on writing text in an uncluttered way, and both support <a href="http://support.iawriter.com/help/kb/general-questions/markdown-syntax-reference-guide" title="http://support.iawriter.com/help/kb/general-questions/markdown-syntax-reference-guide">Markdown</a> for basic text formatting. And oh, they also make it easier to prepare text for the web, HTML tags and all. Bingo!<br /><br /><div style="text-align: center;"><iframe allowfullscreen="allowfullscreen" frameborder="0" height="281" mozallowfullscreen="mozallowfullscreen" src="http://player.vimeo.com/video/33964031?title=0&amp;byline=0&amp;portrait=0&amp;color=ffffff" webkitallowfullscreen="webkitallowfullscreen" width="500"></iframe> <br /><a href="http://vimeo.com/33964031">iA Writer now with iCloud</a> from <a href="http://vimeo.com/ia">Oliver Reichenstein</a> on <a href="http://vimeo.com/">Vimeo</a>.</div><div style="text-align: center;"><br /></div><h2>iCloud and Dropbox to the rescue</h2><br />Yeah, I know, I'm quite biased. All the gadgets I use were designed by Apple in California (and Assembled in China, of course), so I didn't blink twice because there's no Android or Windows support in either of these apps. However! I did manage to export all my notes from Evernote to Dropbox using <a href="https://www.cloudhq.net/">cloudHQ</a> in .txt format, which means I can access and edit them anywhere. And while I'll be using iCloud in iA Writer for notes I am using the most (offline ability tipped the scale), I'll keep using Dropbox as a storage/backup tool for less frequently used notes. Spotlight will make sure I can easily find old notes in the Notes folder on my Dropbox.<br /><br /><div class="separator" style="clear: both; text-align: center;"><a href="http://4.bp.blogspot.com/-iEsxNDNvWcA/UNYC-_-VbjI/AAAAAAAAAqg/rz0BvazfO44/s1600/icloud-dropbox.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="130" src="http://4.bp.blogspot.com/-iEsxNDNvWcA/UNYC-_-VbjI/AAAAAAAAAqg/rz0BvazfO44/s320/icloud-dropbox.png" width="320" /></a></div><br />Sure, the solution might not be as elegant as using Evernote for everything, but iCloud and Dropbox syncing has so far been good to me. And I can use the 40€/year I'll be saving for not using Evernote anymore on expanded iCloud storage if I need to (as a legacy MobileMe member I still have more than enough space, but expanding storage might come in handy if I start using iCloud more intensively in various apps).<br /><br /><h2>TL;DR: Evernote, make sure your core functionality works before focusing on the looks!</h2><br />And with that, dear Evernote, I am saying my official goodbyes. I have fond memories of you, we've had some good times together. But I just can't watch anymore as your apps get prettier and prettier and your core functionality lies forgotten in the dust. A quick Google search showed I'm not the only one with this problem. And I'm just not willing to reinstall your app once in a while to make sure it works properly. I'm not playing the Evernote lottery ("Will my notes be synced today?") anymore.<br /><br />Mind you, I'm not complaining about a free service here, I'm complaining about a service I pay for and it's just not working as advertised. Goodbye, Evernote. I am moving on, to more simple (and cheaper) solutions. I'll just make sure all notes were migrated properly and then I'll gladly uninstall your app from my Mac, as per your instructions, <strong>permanently</strong>.<br /><br /><i><b>Update:</b> Well, one thing Evernote support did right was to refund my account for the yearly subscription. Thanks, I guess, though I would rather have a functional product I was more than happy to pay for.&nbsp;</i><br/><br/><hr/><br/><italic>Originally published at <a href='http://ialja.blogspot.com/2012/12/i-quit-evernote-why-company-shouldnt.html'>http://ialja.blogspot.com/2012/12/i-quit-evernote-why-company-shouldnt.html</a></italic><br/><br/></div>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Explaining the web and web programming with Octocat, sushi and fish]]></title>
-    <link href="http://blog.ialja.com/2012/12/explaining-web-and-web-programming-with.html"/>
-    <updated>2012-12-16T00:00:00+01:00</updated>
-    <id>http://blog.ialja.com/2012/12/explaining-web-and-web-programming-with</id>
-    <content type="html"><![CDATA[<div class='post'>
-<p>One of challenges of organizing <a href="http://railsgirls.com/ljubljana">Rails Girls Ljubljana</a> was coming up with short lectures that would prepare the girls, absolute beginners, to understand the basic terminology of the web and what they would be working on.</p>Sure, there are some existing presentations online about what programming is and where Rails fits in the whole story, but I thought beginners could benefit from something a bit more simple, funny and thus memorable. Which is why I borrowed <a href="https://github.com/">GitHub</a>'s mascot <a href="http://octodex.github.com/">Octocat</a> and sent him off on a journey to find sushi without fish on the web. Wait, what?<br /><!-- more --><br />Have a look for yourself, here are the slides, both in English and Slovenian (the original I used for my lecture):<br /><br /><iframe allowfullscreen="allowfullscreen" frameborder="0" height="421" marginheight="0" marginwidth="0" mozallowfullscreen="mozallowfullscreen" scrolling="no" src="http://www.slideshare.net/slideshow/embed_code/15661527" style="border-width: 1px 1px 0; border: 1px solid #CCC; margin-bottom: 5px;" webkitallowfullscreen="webkitallowfullscreen" width="512"> </iframe> <br /><div style="margin-bottom: 5px;"><strong> <a href="http://www.slideshare.net/ialja/the-web-and-programming-an-introduction-simple-short-and-friendly" target="_blank" title="The web and programming: an introduction - Simple, short and friendly ">The web and programming: an introduction - Simple, short and friendly </a> </strong> from <strong><a href="http://www.slideshare.net/ialja" target="_blank">Alja Isakovic</a></strong> </div><br /><iframe allowfullscreen="allowfullscreen" frameborder="0" height="421" marginheight="0" marginwidth="0" mozallowfullscreen="mozallowfullscreen" scrolling="no" src="http://www.slideshare.net/slideshow/embed_code/15661515" style="border-width: 1px 1px 0; border: 1px solid #CCC; margin-bottom: 5px;" webkitallowfullscreen="webkitallowfullscreen" width="512"> </iframe> <br /><div style="margin-bottom: 5px;"><strong> <a href="http://www.slideshare.net/ialja/uvod-v-internet-in-programiranje-enostavno-kratko-in-prijazno" target="_blank" title="Uvod v internet in programiranje: Enostavno, kratko in prijazno">Uvod v internet in programiranje: Enostavno, kratko in prijazno</a> </strong> from <strong><a href="http://www.slideshare.net/ialja" target="_blank">Alja Isakovic</a></strong> </div><br />In case you find the slides useful, the main tip for presenting with them is: don't explain everything on the slides, focus on the story. In the first part, where I introduce the client-server model of the web, I didn't explain the technical terms too much. I compared IP addresses to phone numbers servers have and DNS servers to a phonebook. I do think it's good for beginners to be eposed to these terms, but they don't really need to know in detail what they mean.<br /><br />When talking about GET requests, I didn't explain HTTP or the format of a request. A GET request is all they need to hear, and you can mention that sometimes the server doesn't find what you're looking for in which case you get and <a href="http://www.hongkiat.com/blog/60-really-cool-and-creative-error-404-pages/">Error 404 page</a>. But if the server does find the web page, it sends it in HTML to your browser. Knowing all the steps will make it easier for people tounderstand that there are many steps involved into the process and that fast loading pages can only happen if all part of the process work as they are supposed to.<br /><br />In the second part I explained the different between a static and a dynamic web page using Octocat, who doesn't quite want the usual sushi. I explained the concept of a web app with the sushi chef living on the server, ready to tailor the content (or looks) of the web pages to each user's needs and interests, just like Facebook. And once you have a sushi chef, it's easy to explain Ruby as the language you need to learn to make the chef (the web app) do what you want.<br /><br />Simple, short, friendly and apparently memorable: one of the participants was just asking me about Octocat and sushi on Twitter, so I guess a different approach did the trick!<br /><br /><div class="separator" style="clear: both; text-align: center;"><a href="http://1.bp.blogspot.com/-8DX0ZyAnn0Q/UM4u0gg6VII/AAAAAAAAAoU/fp7QnqPoDow/s1600/rails-girls-intro-web.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="http://1.bp.blogspot.com/-8DX0ZyAnn0Q/UM4u0gg6VII/AAAAAAAAAoU/fp7QnqPoDow/s1600/rails-girls-intro-web.png" /></a></div><br/><br/><hr/><br/><italic>Originally published at <a href='http://ialja.blogspot.com/2012/12/explaining-web-and-web-programming-with.html'>http://ialja.blogspot.com/2012/12/explaining-web-and-web-programming-with.html</a></italic><br/><br/></div>
 
 ]]></content>
   </entry>
