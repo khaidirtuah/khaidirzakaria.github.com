@@ -5,8 +5,6 @@ date: 2013-03-26 11:25
 comments: true
 categories: 
 ---
-# I'm in love with Markdown
-
 I just want to go on the record for saying that I really, really love Markdown:
 
 > "… a text-to-HTML conversion tool for web writers. Markdown allows you to write using an easy-to-read, easy-to-write plain text format, then convert it to structurally valid XHTML (or HTML)." - [John Gruber][markdownb]
