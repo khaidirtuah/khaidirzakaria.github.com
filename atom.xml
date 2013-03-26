@@ -4,7 +4,7 @@
   <title><![CDATA[iAlja's blog]]></title>
   <link href="http://blog.ialja.com/atom.xml" rel="self"/>
   <link href="http://blog.ialja.com/"/>
-  <updated>2013-03-26T12:05:31+01:00</updated>
+  <updated>2013-03-26T12:25:13+01:00</updated>
   <id>http://blog.ialja.com/</id>
   <author>
     <name><![CDATA[Alja Isaković]]></name>
@@ -18,9 +18,7 @@
     <link href="http://blog.ialja.com/2013/03/26/im-in-love-with-markdown/"/>
     <updated>2013-03-26T11:25:00+01:00</updated>
     <id>http://blog.ialja.com/2013/03/26/im-in-love-with-markdown</id>
-    <content type="html"><![CDATA[<h1>I&#8217;m in love with Markdown</h1>
-
-<p>I just want to go on the record for saying that I really, really love Markdown:</p>
+    <content type="html"><![CDATA[<p>I just want to go on the record for saying that I really, really love Markdown:</p>
 
 <blockquote><p>&#8220;… a text-to-HTML conversion tool for web writers. Markdown allows you to write using an easy-to-read, easy-to-write plain text format, then convert it to structurally valid XHTML (or HTML).&#8221; - <a href="http://daringfireball.net/projects/markdown/">John Gruber</a></p></blockquote>
 
