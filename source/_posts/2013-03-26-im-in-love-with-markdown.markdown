@@ -4,6 +4,7 @@ title: "I'm in love with Markdown"
 date: 2013-03-26 11:25
 comments: true
 categories: 
+- Technology
 ---
 I just want to go on the record for saying that I really, really love Markdown:
 
