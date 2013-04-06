@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Technology | iAlja's blog]]></title>
   <link href="http://blog.ialja.com/categories/technology/atom.xml" rel="self"/>
   <link href="http://blog.ialja.com/"/>
-  <updated>2013-03-28T09:05:36+01:00</updated>
+  <updated>2013-04-06T19:57:23+02:00</updated>
   <id>http://blog.ialja.com/</id>
   <author>
     <name><![CDATA[Alja Isaković]]></name>
@@ -77,7 +77,7 @@ And a horizontal line for the big finish.
 
 <p>Yesterday I came across a <a href="http://daringfireball.net/linked/2013/03/23/markdown-book">recommendation</a> for an <a href="http://macsparky.com/markdown/">e-book on Markdown</a> on <a href="http://daringfireball.net">Daring Fireball</a>, John Gruber's blog. Because Gruber just happens to be the <a href="http://daringfireball.net/projects/markdown/syntax">father of Markdown</a> and because I'm spending more and more time in iA Writer, my Markdown editor of choice, I couldn't resist tapping on that buy button in my iBooks store.</p>
 
-<p>{% img "The MacSparky Markdown Field Guide on iPad" /images/uploads/markdown-ebook.jpg %}</p>
+<p><img class="The MacSparky Markdown Field Guide on iPad" src="/images/uploads/markdown-ebook.jpg"></p>
 
 <h2>The ultimate Markdown guide and Marked, my new best friend</h2>
 
@@ -85,7 +85,7 @@ And a horizontal line for the big finish.
 
 <p>Marked is not an editor, but a preview app for all sorts of advanced Markdown such as reference-style links   that iA Writer doesn't support on its own. With one <a href="http://support.iawriter.com/help/kb/general-questions/how-can-i-preview-markdown">simple script</a> you can send the document you're working on in iA Writer to Marked and look at the fancy preview side by side when you're proofreading.</p>
 
-<p>{% img "iA Writer and Marked side by side" /images/uploads/iawriter-marked-post.png %}</p>
+<p><img class="iA Writer and Marked side by side" src="/images/uploads/iawriter-marked-post.png"></p>
 
 <p>Not to mention that Marked also supports link verification, provides a handy table of contents for quickly jumping to different sections, supports custom CSS files that modify the look of the preview window, and tons of different export formats that will use your custom CSS. Totally in love.</p>
 
@@ -112,7 +112,7 @@ And a horizontal line for the big finish.
     <id>http://blog.ialja.com/2013/03/22/goodbye-blogger-hello-octopress</id>
     <content type="html"><![CDATA[<p>The recent <a href="http://ialja.com/post/45336943328/hitler-finds-out-google-reader-is-shutting-down">Google Reader fiasco</a> reminded me of something I've been too lazy to take care of for too long: my blog, which I started back in 2006, was still being hosted on Google's Blogger. Now here's a question for you: how long before Google decides all blogging should be done on Google+? Ridiculous question? I don't know. I don't feel like taking chances with Google anymore. But what are the alternatives?</p>
 
-<p>{% img /images/uploads/blogger-to-octopress.png %}</p>
+<p><img src="/images/uploads/blogger-to-octopress.png"></p>
 
 <!-- more -->
 
