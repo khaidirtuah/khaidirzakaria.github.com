@@ -6,7 +6,7 @@ comments: true
 categories: 
 - Other
 ---
-I already [blogged](/2012/11/why-i-write-at-least-750-words-day.html/) about why I write at least 750 words each day when I reached one straight year of regular writing. Today I'm celebrating another milestone: **500 days of interrupted writing**. In other words: I've just added a Space Bird, the ultimate streak badge you can earn, to my collection! 
+I already [blogged](/2012/11/why-i-write-at-least-750-words-day.html/) about why I write at least [750 words](http://750words.com) each day when I reached one straight year of regular writing. Today I'm celebrating another milestone: **500 days of interrupted writing**. In other words: I've just added a Space Bird, the ultimate streak badge you can earn, to my collection! 
 
 {% img "500 days of 750 words" /images/uploads/ialja-500days-750words.png %}
 
