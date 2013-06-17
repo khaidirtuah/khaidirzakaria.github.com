@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Other | iAlja's blog]]></title>
   <link href="http://blog.ialja.com/categories/other/atom.xml" rel="self"/>
   <link href="http://blog.ialja.com/"/>
-  <updated>2013-04-07T09:30:39+02:00</updated>
+  <updated>2013-06-17T14:05:26+02:00</updated>
   <id>http://blog.ialja.com/</id>
   <author>
     <name><![CDATA[Alja Isaković]]></name>
@@ -20,7 +20,7 @@
     <id>http://blog.ialja.com/2013/04/06/500-days-of-750-words-each-day</id>
     <content type="html"><![CDATA[<p>I already <a href="/2012/11/why-i-write-at-least-750-words-day.html/">blogged</a> about why I write at least <a href="http://750words.com">750 words</a> each day when I reached one straight year of regular writing. Today I'm celebrating another milestone: <strong>500 days of interrupted writing</strong>. In other words: I've just added a Space Bird, the ultimate streak badge you can earn, to my collection!</p>
 
-<p>{% img "500 days of 750 words" /images/uploads/ialja-500days-750words.png %}</p>
+<p><img class="500 days of 750 words" src="/images/uploads/ialja-500days-750words.png"></p>
 
 <p>That makes me quite happy, but also opens a couple of questions. Where to next? Should I continue writing? Try to keep increasing my streak, see how far I can take it?</p>
 
@@ -31,7 +31,7 @@
 
 <p>Yes, the answer is definitely yes. I <em>need</em> to keep doing this.</p>
 
-<p>{% img "500 days of 750 words" /images/uploads/ialja-500days-stats.png %}</p>
+<p><img class="500 days of 750 words" src="/images/uploads/ialja-500days-stats.png"></p>
 
 <p><em>Side note: after May 1st 750words.com will start charging a <a href="http://750words.com/patrons">monthly subscription for new members</a>. As an existing user, I'll have the privilege of getting a lifetime free account. But I've been a patron for quite a while and will keep donating as often as I can to keep the site running. If you stumble on these words after May 1st and are wondering whether to start paying after your 30 day free trial, I can assure you: it's worth having someone pressure you into writing each and every day.</em></p>
 ]]></content>
